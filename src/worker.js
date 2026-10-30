@@ -22,7 +22,7 @@ export default {
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Your IP</title>
+  <title>Your IP – ${ip}</title>
   <style>
     body {
       font-family: system-ui, sans-serif;
